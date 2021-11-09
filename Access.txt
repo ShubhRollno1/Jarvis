@@ -1,0 +1,4 @@
+User :shubham.gehlot@netcorecloud.com
+Pass :netcore@12345
+
+NLA :shubham.gehlot@netcorecloud.ac.in
